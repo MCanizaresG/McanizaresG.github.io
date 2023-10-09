@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: PhD Student at BCAM.
 
 profile:
   align: right
@@ -24,7 +24,7 @@ social: true  # includes social icons at the bottom of the page
 # Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
 ---
 
-Hi! I'm a PhD student at the Basque Center for Applied Mathematics (BCAM) in Bilbao, Spain. I am working in the field of PDEs, specifically in the analysis of inverse problems related to Schrödinger equations.
+Hi! I'm a PhD student at the Basque Center for Applied Mathematics (BCAM) in Bilbao, Spain. I am working in the field of PDEs, specifically in the analysis of inverse problems related to Schrödinger operators.
 
 In particular, I have been focused in the identifiability of singular electric potentials by measuring the scattering of harmonic waves. 
 
